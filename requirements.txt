@@ -1,0 +1,2 @@
+selenium==3.0.1
+xvfbwrapper==0.2.8
